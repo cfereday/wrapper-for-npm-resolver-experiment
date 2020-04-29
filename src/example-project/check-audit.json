@@ -1,6 +1,6 @@
 >>>> npm audit --json 
 >>>> exit: 1
-Total of 1 actions to process
+Total of 3 actions to process
 --------------------------------------------------
 [high] Prototype Pollution
  - dependencies: lodash
@@ -10,5 +10,9 @@ Total of 1 actions to process
 --------------------------------------------------
 [low] Prototype Pollution
  - dependencies: lodash
+--------------------------------------------------
+[low] Prototype Pollution
+ - dependencies: npm-audit-resolver>yargs-unparser>yargs>yargs-parser
+ - dependencies: npm-audit-resolver>audit-resolve-core>yargs-parser
 --------------------------------------------------
 --------------------------------------------------
