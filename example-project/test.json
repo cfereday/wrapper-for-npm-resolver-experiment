@@ -1,0 +1,14 @@
+>>>> npm audit --json 
+>>>> exit: 1
+Total of 1 actions to process
+--------------------------------------------------
+[high] Prototype Pollution
+ - dependencies: lodash
+--------------------------------------------------
+[high] Prototype Pollution
+ - dependencies: lodash
+--------------------------------------------------
+[low] Prototype Pollution
+ - dependencies: lodash
+--------------------------------------------------
+--------------------------------------------------
