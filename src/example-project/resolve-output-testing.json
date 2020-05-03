@@ -1,0 +1,24 @@
+>>>> npm audit --json 
+>>>> exit: 1
+
+--------------------------------------------------
+ lodash needs your attention.
+
+[ low ] Prototype Pollution
+ vulnerable versions <4.17.5 found in:
+ - dependencies: lodash
+[ high ] Prototype Pollution
+ vulnerable versions <4.17.11 found in:
+ - dependencies: lodash
+[ high ] Prototype Pollution
+ vulnerable versions <4.17.12 found in:
+ - dependencies: lodash
+_
+ f) fix automatically
+ d) show more details and ask me again
+ r) remind me in 24h
+ i) ignore paths
+ del) Remove all listed dependency paths
+ s) Skip this
+ q) Quit
+What would you like to do? 

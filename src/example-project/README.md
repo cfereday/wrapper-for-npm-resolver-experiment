@@ -4,4 +4,4 @@
 * Run `npx check-audit`
 
 
-
+This is an example project which deliberately has vulnerabilities to explore how npm-audit-resolver works with a project. 
