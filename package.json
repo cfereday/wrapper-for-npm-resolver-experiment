@@ -24,6 +24,7 @@
     "mocha": "^7.1.2"
   },
   "dependencies": {
+    "audit-resolve-core": "^1.1.7",
     "shelljs": "^0.8.4"
   }
 }
